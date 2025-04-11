@@ -14,5 +14,8 @@
     "nah"
   ],
   "author": "nah",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "phaser": "^3.88.2"
+  }
 }
