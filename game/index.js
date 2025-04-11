@@ -11,7 +11,7 @@ const config = {
     create() {
       this.add.image(400, 300, "foreground");
     },
-    update() {}, //TODO:refactor these into functions, add character scene with movement
+    update() {}, //TODO:refactor these into functions, add character scene with
   },
 };
 
